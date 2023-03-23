@@ -4,7 +4,7 @@ public class VowelCounter {
 
     //Count vowels: (a, e, i, o, u) in any given string
     public int countVowels(String text){
-
+        //CODE HERE
         return 0;
     }
 

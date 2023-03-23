@@ -25,13 +25,14 @@ public class VowelCounterTest {
 
     @Test
     public void noVowelTest(){
-        Assert.assertEquals(1, vowelCounter.countVowels("Myths fly by dry sky"));
+        Assert.assertEquals(0, vowelCounter.countVowels("Myths fly by dry sky"));
     }
 
     @Test
     public void aVowelTest(){
         Assert.assertEquals(1, vowelCounter.countVowels("a"));
     }
+
     @Test
     public void eVowelTest(){
         Assert.assertEquals(1, vowelCounter.countVowels("e"));
