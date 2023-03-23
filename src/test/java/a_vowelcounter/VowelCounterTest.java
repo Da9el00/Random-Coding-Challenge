@@ -52,6 +52,4 @@ public class VowelCounterTest {
     public void uVowelTest(){
         Assert.assertEquals(1, vowelCounter.countVowels("u"));
     }
-
-
 }
