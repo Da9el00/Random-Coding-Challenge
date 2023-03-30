@@ -1,6 +1,6 @@
 # Random Coding Challenge
 
-a. Write a program to count the number of vowels in a string. 
+a. Write a program to count the number of vowels in a string.
 
 b. Write a program to find the factorial of a number.
 
@@ -24,7 +24,7 @@ k. Write a program to find the second-largest number in an array.
 
 l. Write a program to sort an array in ascending order.
 
-m. Write a program to find the maximum and minimum value in a binary tree.
+m. Write a program to clean a given array by certain rules.
 
 n. Write a program to find the length of the longest increasing subarray in an array.
 
@@ -32,12 +32,12 @@ o. Write a program to remove all duplicate elements from an array.
 
 p. Write a program to find the median of two sorted arrays.
 
-q. Write a program to implement a stack using an array.
+q. Write a program to change the dot placemnt for a given number.
 
-r. Write a program to implement a queue using an array.
+r. Write a program to clean purchase information with returned items.
 
 s. Write a program to find the longest common prefix among a group of strings.
 
 t. Write a program to find the kth largest element in an array.
 
-u. Write a program to implement a binary search algorithm on a sorted array.
+u. Write a program to rearrange an array alternately.
