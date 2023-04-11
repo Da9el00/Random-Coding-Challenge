@@ -1,6 +1,5 @@
-package a_vowelcounter;
+package challenges.a_vowelcounter;
 
-import challenges.a_vowelcounter.VowelCounter;
 import org.junit.Assert;
 import org.junit.Test;
 
