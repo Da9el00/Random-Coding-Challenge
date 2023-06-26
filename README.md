@@ -1,5 +1,9 @@
 # Random Coding Challenge
 
+## Project Status
+
+⚠️ **This project has been paused for now.**
+
 a. Write a program to count the number of vowels in a string.
 
 b. Write a program to find the factorial of a number.
@@ -32,7 +36,7 @@ o. Write a program to remove all duplicate elements from an array.
 
 p. Write a program to find the median of two sorted arrays.
 
-q. Write a program to change the dot placemnt for a given number.
+q. Write a program to change the dot placement for a given number.
 
 r. Write a program to clean purchase information with returned items.
 
